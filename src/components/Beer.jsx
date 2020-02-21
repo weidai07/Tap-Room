@@ -3,14 +3,6 @@ import PropTypes from 'prop-types';
 import Card from '@material-ui/core/Card';
 
 function Beer(props){
-  // var styles = {
-  //   border: '1px #999999 solid',
-  //   width: '50%',
-  //   left: 0,
-  //   position: 'absolute',
-  //   padding: '0',
-  //   margin: '0'
-  // };
   var paragraphPadding = {
     padding: '0',
     margin: '0'

@@ -15,8 +15,3 @@ function BackgroundImage(){
 }
 
 export default BackgroundImage;
-
-
-
-
-// style={{ backgroundImage:`url(${Background})` }}

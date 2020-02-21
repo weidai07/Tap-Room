@@ -6,85 +6,85 @@ var availableProduce = [
   {  
     month: 'January',
     selection: [  
-      'Beer1',
-      'Beer2'
+      'Beer Type 1',
+      'Beer Type 2'
     ]
   },
   {  
     month: 'February',
     selection: [  
-      'Beer1',
-      'Beer2'
+      'Beer Type 1',
+      'Beer Type 2'
     ]
   },
   {  
     month: 'March',
     selection: [  
-      'Beer1',
-      'Beer2'
+      'Beer Type 1',
+      'Beer Type 2'
     ]
   },
   {  
     month: 'April',
     selection: [  
-      'Beer1',
-      'Beer2'
+      'Beer Type 1',
+      'Beer Type 2'
     ]
   },
   {  
     month: 'May',
     selection: [  
-      'Beer1',
-      'Beer2'
+      'Beer Type 1',
+      'Beer Type 2'
     ]
   },
   {  
     month: 'June',
     selection: [  
-      'Beer1',
-      'Beer2'
+      'Beer Type 1',
+      'Beer Type 2'
     ]
   },
   {  
     month: 'July',
     selection: [  
-      'Beer1',
-      'Beer2'
+      'Beer Type 1',
+      'Beer Type 2'
     ]
   },
   {  
     month: 'August',
     selection: [  
-      'Beer1',
-      'Beer2'
+      'Beer Type 1',
+      'Beer Type 2'
     ]
   },
   {  
     month: 'September',
     selection: [  
-      'Beer1',
-      'Beer2'
+      'Beer Type 1',
+      'Beer Type 2'
     ]
   },
   {  
     month: 'October',
     selection: [  
-      'Beer1',
-      'Beer2'
+      'Beer Type 1',
+      'Beer Type 2'
     ]
   },
   {  
     month: 'November',
     selection: [  
-      'Beer1',
-      'Beer2'
+      'Beer Type 1',
+      'Beer Type 2'
     ]
   },
   {  
     month: 'December',
     selection: [  
-      'Beer1',
-      'Beer2'
+      'Beer Type 1',
+      'Beer Type 2'
     ]
   }
 ];
