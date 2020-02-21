@@ -31,7 +31,7 @@ This program is designed to show styling in react. Please see attached structure
 
 * _None at this time_
 
-## Technologies Used:
+## Technologies Used:  
 
 * React
 * HTML
