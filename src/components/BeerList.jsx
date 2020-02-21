@@ -58,4 +58,5 @@ function BeerList() {
     </div>
   );
 }
+
 export default BeerList;

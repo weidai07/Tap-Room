@@ -2,7 +2,7 @@ import React from 'react';
 import LocalBeer from './LocalBeer';
 
 
-var availableProduce = [  
+var availableBeer = [  
   {  
     month: 'January',
     selection: [  
@@ -92,7 +92,7 @@ function LocalBeerList() {
   return(
     <div>
       <hr />
-      {availableProduce.map((localBeer, index) => 
+      {availableBeer.map((localBeer, index) => 
         <LocalBeer month={localBeer.month}
           selection = {localBeer.selection}
           key = {index} />

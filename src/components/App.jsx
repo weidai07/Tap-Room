@@ -22,7 +22,7 @@ function App(){
         <Header/>
         <Switch>
           <Route exact path='/' component={BeerList} />
-          <Route path='/newbeerscheduleform' component={NewBeerForm} />
+          <Route path='/newbeerform' component={NewBeerForm} />
           <Route component={Error404} />
         </Switch>
       </div>
