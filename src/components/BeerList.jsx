@@ -4,40 +4,40 @@ import Grid from '@material-ui/core/Grid';
 
 var masterBeerList = [  
   {  
-    day: 'Sunday',
-    location: 'Seattle',
-    hours: 'Ballard',
+    day: 'Monday',
+    location: 'Capitol Hill',
+    hours: '24/7',
     booth: '1A'
   },
   {  
-    day: 'Sunday',
-    location: 'Seattle',
-    hours: 'Ballard',
-    booth: '1A'
+    day: 'Tuesday',
+    location: 'Ballard',
+    hours: '24/7',
+    booth: '2A'
   },
   {  
-    day: 'Sunday',
-    location: 'Seattle',
-    hours: 'Ballard',
-    booth: '1A'
+    day: 'Wednesday',
+    location: 'Queen Anne',
+    hours: '24/7',
+    booth: '3A'
   },
   {  
-    day: 'Sunday',
-    location: 'Seattle',
-    hours: 'Ballard',
-    booth: '1A'
+    day: 'Thursday',
+    location: 'Magnolia',
+    hours: '24/7',
+    booth: '4A'
   },
   {  
-    day: 'Sunday',
-    location: 'Seattle',
-    hours: 'Ballard',
-    booth: '1A'
+    day: 'Friday',
+    location: 'University District',
+    hours: '24/7',
+    booth: '5A'
   },
   {  
-    day: 'Sunday',
-    location: 'Seattle',
-    hours: 'Ballard',
-    booth: '1A'
+    day: 'Saturday',
+    location: 'Eastlake',
+    hours: '24/7',
+    booth: '6A'
   }
 ];
 

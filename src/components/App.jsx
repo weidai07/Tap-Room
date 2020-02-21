@@ -15,13 +15,10 @@ function App(){
     minHeight: '100vh',
     minWidth: '100%'
   };
-  // var h = {
-
-  // };
+  
   return (
     <div style={style}>
       <div>
-        {/* <BackgroundImage/> */}
         <Header/>
         <Switch>
           <Route exact path='/' component={BeerList} />
