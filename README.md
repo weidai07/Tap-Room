@@ -6,13 +6,14 @@
 
 This project is demostration of my knowledge in React to date. 
 
+Original Version of Project: https://github.com/weidai07/TapRoom 
 ## Links:
 
-Github - https://github.com/weidai07/TapRoom
+Github - https://github.com/weidai07/Tap-Room
 
 ## Setup/Installation Requirements:
 
-1. Open https://github.com/weidai07/TapRoom
+1. Open https://github.com/weidai07/Tap-Room
 2. Clone repository to local machine 
 3. Build and Run project
 
